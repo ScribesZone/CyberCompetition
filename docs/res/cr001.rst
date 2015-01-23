@@ -2,6 +2,7 @@ CR001
 =====
 :Date: 2015-01-02-8h-10h
 :Type: Reunion
+:Lieu: Grenoble-Competis
 :PartiesPrenantes: ABI, JDR, KWG, MPA, PSO, TNA, ZSH 
 :Organisateur: ABI
 :Rapporteur: KWG
@@ -29,16 +30,16 @@ CR001
 #. La réunion a montré que vu l’étendue du problème des priorités devraient être fixées.
 #. _
 #. On désire étudier les fonctionnalités correspondant à :
-#. l’enregistrement des épreuves,
-#. l’enregistrement des sportifs,
-#. la vente des billets,
-#. la sécurité des sites,
-#.  la publication des résultats.
+#. _ l’enregistrement des épreuves,
+#. _ l’enregistrement des sportifs,
+#. _ la vente des billets,
+#. _ la sécurité des sites,
+#. _ la publication des résultats.
 
 #. Les prochaines réunions sont planifiées pour les dates suivantes :
 #. _ Réunion, 2015-01-02-14h-15h, ABI, JDR, KWG, MPA, PSO, TNA 
 #. _ Interview, 2015-01-17-08h-08h30, ABI, KWG, PPS
-#. _ Interview, 2014-01-17-14h-15h, ABI, HIS, KWG, TNA
-#. _ Scénario, 2014-02-01-16h-17h, ABI, HIS, KWG, MPA, PSO
-#. _ Scénario, 2014-02-02-08h-08h30, ABI, KWG, PPS
+#. _ Interview, 2015-01-17-14h-15h, ABI, HIS, KWG, TNA
+#. _ Scénario, 2015-01-18-16h-17h, ABI, HIS, KWG, MPA, PSO
+#. _ Scénario, 2015-01-19-08h-09h, ABI, KWG, PPS
 
