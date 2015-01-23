@@ -2,6 +2,7 @@ CR003
 =====
 :Date: 2015-01-17-8h-8h30
 :Type: Interview
+:Lieu: Paris-Competis
 :PartiesPrenantes: ABI, KWG, PPS
 :Organisateur: ABI
 :Rapporteur: KWG

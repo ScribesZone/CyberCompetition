@@ -1,8 +1,8 @@
 CR004
 =====
-
 :Date: 2015-01-17-14h-15h
 :Type: Interview
+:Lieu: Paris-Competis
 :PartiesPrenantes: ABI, HIS, KWG, TNA
 :Organisateur: ABI
 :Rapporteur: KWG
