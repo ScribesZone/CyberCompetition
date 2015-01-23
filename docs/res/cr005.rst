@@ -1,7 +1,8 @@
 CR005
 =====
-:Date: 2015-02-01-16h-17h
+:Date: 2015-01-18-16h-17h
 :Type: Scenario
+:Lieu: Paris-Competis
 :PartiesPrenantes: ABI, HSI, KWG, MPA, PSO
 :Organisateur: KWG
 :Presents: ABI, HSI, KWG, MPA
