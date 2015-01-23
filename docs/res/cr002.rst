@@ -2,6 +2,7 @@ CR002
 =====
 :Date: 2015-01-02-14h-15h
 :Type: Reunion
+:Lieu: Grenoble-Competis
 :PartiesPrenantes: ABI, JDR, KWG, MPA, PSO, TNA
 :Organisateur: ABI
 :Rapporteur: KWG
