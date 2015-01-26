@@ -10,14 +10,14 @@ CR001
 :Objectifs: Faire connaissance, clarifier les grands objectifs du projet, fixer un premier agenda
 
 #. En ce début de projet, les parties prenantes sont les suivantes :
-#. _ Ahmed Blasi (ABI) – IMAG, Grenoble
-#. _ Jean-Claude Dufour (JDR) -- Competis, Grenoble
-#. _ Ken Wong (KWG) – IMAG, Grenoble
-#. _ Mireille Palma (MPA) – Competis, Lisbonne
-#. _ Paolo Santiago Sanchez (PSO) – Competis, Venezuela
-#. _ Hong Shi (HSI) – Competis, Zurich
-#. _ Tararya Naramananata (TNA) – Competis, Nantes
-#. _ Zork Swish (ZSH) – Competis, Autriche
+#. _ Ahmed BLASI (ABI) – IMAG, Grenoble
+#. _ Jean-Claude DUFOUR (JDR) - Batemis, Grenoble
+#. _ Ken WONG (KWG) – IMAG, Grenoble
+#. _ Mireille PALMA (MPA) – Competis, Lisbonne
+#. _ Paolo SANTIAGO SANCHEZ (PSO) – Competis, Venezuela
+#. _ Hong SHI (HSI) – Competis, Zurich
+#. _ Tararya NARAMANATA (TNA) – Competis, Nantes
+#. _ Zork SWISH (ZSH) – Competis, Autriche
 #. _
 #. Le présent projet a été baptisé CyberCompétition.
 #. La société Competis est spécialisée depuis 20 ans dans l’organisation de compétition.
