@@ -1,0 +1,24 @@
+CR008
+=====
+:Date: 2015-02-25-18h-20h
+:Type: Reunion
+:Lieu: Paraguana-Competis
+:PartiesPrenantes: ABI, JDR, PSO, AGO
+:Organisateur: ABI
+:Rapporteur: KWG
+:Presents: ABI, JDR, PSO, AGO
+:Objectifs: Précision des priorités
+
+#. Nouvel intervenant:
+#. - Apito GUARACARUMBO (AGO) - Competis, San Juan de Los Morros
+#. La réunion a eu lieu sur le site de Paraguana.
+#. De nombreuses discussions ont eu lieu suite à cette visite sur les opportunités commerciales et sur la stratégie à adopter pour la mise sur le marché d'un produit CyberBatiment en 20014 Q4.
+#. Différents options on été débatues et celles ci-présentent toutes des avantages mais aussi inconvénients.
+#. Quoi qu'il en soit les décisions suivantes on été prises.
+#. La sécurisation du site (largement évoquée dans le CR007) devrait être sous traitée à une entreprise tièrce.
+#. Le premier incrément du logiciel CyberBatiment développé à Grenoble devra comporter les éléments suivants:
+#. - la possibilité de constituer les équipes,
+#. - la possibilité de les inscrire à une épreuve,
+#. - la possibilité de consulter les épreuves par équipes,
+#. - la possibilité d’acheter des billets en ligne.
+#. Ces fonctionalités sont donc prioritaires.
