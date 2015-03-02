@@ -1,0 +1,34 @@
+CR009
+=====
+:Date: 2015-03-02-16h30-17h15
+:Type: Reunion
+:Lieu: Grenoble, UFR IMA
+:PartiesPrenantes: ABI, JDR, PSO, AGO
+:Organisateur: PGD
+:Rapporteur: MCF
+:Presents: JFE, MCF, PGD, SCU
+:Objectifs: Précision des priorités après l'AUDIT1
+
+
+#. Il est proposé, en préparation de l'AUDIT2, de mettre en priorité les éléments suivants:
+#. **Base de données**
+#. _ modèle UML, logique, physique qui couvre l'ensemble du domaine.
+#. _ reprise des données
+#. _ requêtes qui permettent de retrouver les données incohérentes
+#. (si besoin se limiter aux données utilisées par les 2 cas d'utilisation présentés ci-dessous).
+#. **Application**
+#. Développer un prototype permettant de :
+#. A: *consulter les épreuves par équipes*:
+#. _ pour une discipline donnée, choisir une épreuve
+#. _ pour cette épreuve, quelles sont les équipes inscrites  (délégation, sportifs) ?
+#. _ si des résultats sont donnés, affichés les médailles
+#. B: *Gérer (créer, modifier, supprimer) une équipe*
+#. _ créer = choisir les sportifs et les affecter à une équipe
+#. _ modifier = choisir une équipe modifiable, affecter un  sportif, retirer un sportif de l'équipe
+#. _ supprimer = choisir une équipe modifiable et la supprimer.
+#. _ (Modifiable = n'est inscrite à aucune épreuve terminée, ie dont on connaît les résultats).
+#. **IHM**
+#. _ Modèle de tâches, interface abstraite et concrête associées aux 2 cas ci-dessus
+#. Les livrables pour l'AUDIT 2 seront précisés ultérieurement
+#. **GL**
+#. _ Mettre en priorité la traçeabilité sous ses différentes formes
