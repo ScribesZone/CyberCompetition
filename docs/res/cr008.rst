@@ -9,11 +9,12 @@ CR008
 :Presents: ABI, JDR, PSO, AGO
 :Objectifs: Précision des priorités
 
+
 #. Nouvel intervenant:
 #. - Apito GUARACARUMBO (AGO) - Competis, San Juan de Los Morros
 #. La réunion a eu lieu sur le site de Paraguana suite à un déplacement de KWG et ABI en amérique du sud dans le cadre d'autres projets.
 #. De nombreuses discussions on eu lieu sur des opportunités commerciales.
-    #. La stratégie a adopter pour la mise sur le marché d'un produit CyberBatiment pour Q4 en 2014 se clarifie.
+#. La stratégie a adopter pour la mise sur le marché d'un produit CyberBatiment pour Q4 en 2014 se clarifie.
 #. Différents options on été débatues et celles ci-présentent toutes des avantages mais aussi inconvénients.
 #. Quoi qu'il en soit les décisions suivantes on été prises.
 #. La sécurisation du site (largement évoquée dans le CR007) devrait être sous traitée à une entreprise tierce.
