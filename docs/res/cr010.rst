@@ -1,0 +1,43 @@
+CR010
+=====
+:Date: 2015-03-02-16h30-17h15
+:Type: Specification
+:Auteur: MCF
+:Objectifs: Description des données existantes
+
+
+#. **BASE DE DONNEES EXISTANTE**
+#. Un certain nombre de données existantes est disponible.
+#. Ces données sont stockées dans des relations dont la description est donnée ci-après.
+#. Les identifiants, prédicats, domaines et contraintes d'intégrité n'ont pas été fournis.
+#. L'existant n'en faisait pas mention ,probablement car il manquait des compétences BD.
+#. Concrètement, ces relations sont accessibles avec le préfixe jo.
+#. Par exemple, l'expression select * from jo.R fournit l'ensemble des nuplets de la relation R crée par jo.
+#. **SPECIFICATION DES TABLES**
+#.   ``LesEpreuves (nepreuve, nome, forme, discipline, categorie, nbs, dateepr)``
+#.   ``LesSportifs (ns, nom, prenom, pays, categorie, datenais)``
+#.   ``LesSportifsEQ (nom, prenom, pays, categorie, datenais, nequipe)``
+#.   ``LesInscriptionsSportifs (nom, prenom, pays, categorie, datenais, nepreuve)``
+#.   ``LesInscriptionsEquipes (ni, nepreuve)``
+#.   ``LesLogementsInit (nlogement, capacite, nom, prenom, nombat, numero, rue, ville)``
+#.   ``LesResultatsEquipes (nepreuve, gold, silver, bronze)``
+#.   ``LesResultatsSportifs (nepreuve, nomor, prenomor, nomar, prenomar, nombr, prenombr)``
+#. NOTE: L'utilisation de ``gold``, ``silver`` et ``bronze`` en anglais a été lié au fait que ``or`` est un mot réservé Oracle.
+#. **A FOURNIR**
+#. NIVEAU CONCEPTUEL
+#. _ Fournir une modélisation des données de l'application dans la notation UML (diagramme de classes).
+#. _ Exprimer les contraintes d'integrité qui ne sont pas inhérentes au diagramme de classes en faisant référence aux exigences de cohérence le cas échéant.
+#. NIVEAU LOGIQUE
+#. _ A partir de la modélisation UML proposée déduire un modéle relationnel des données de l'application (relations en 3eme forme normale).
+#. _ Identifier les contraintes d'intégrité qui n'ont pas pu être spécifiéees dans le schéma relationnel et référencer les exgicences de cohérence le cas échéant.
+#. NIVEAU PHYSIQUE
+#. _ Fournir le code SQL-Oracle permettant d'implanter la base de données.
+#. _ Identifier les contraintes d'intégrité qui n'ont pas pu être spécifiées en SQL et qui restent à la charge des applications en faisant référence aux exigences de cohérence le cas échéant.
+#. REPRISE DES DONNEES EXISTANTES
+#. _ Definir et développer un mécanisme de reprise des données existantes.
+#. _ Charger dans les relations définies dans le cadre de CyberCompetition à partir de la dans la base de données existante.
+#. _ (le mécanisme doit être automatisé, la reprise doit pouvoir être exécutée plusieurs fois).
+#. COHERENCE DE LA BD
+#. _ pour chaque contrainte d'intégrité non spécifiée dans le schéma programmer la requête associée.
+#. _ tester la requête et noter les résultats pertinents.
+#. _ résoudre les incohérences éventuelles (par exemple en modifiant arbitrairemet les données fournies)
