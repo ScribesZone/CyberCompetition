@@ -1,0 +1,47 @@
+CR006
+-----
+
+:Date: 2016-01-19-08h-09h
+:Type: Scenario
+:Lieu: Paris-`Competis`
+:PartiesPrenantes: `ABI`, `KWG`, `MPA`
+:Organisateur: `ABI`
+:Rapporteur: `KWG`
+:Presents: `ABI`, `MPA`, `KWG`
+:Objectifs:
+    * Etablir un scénario de vente
+
+
+#. Habituellement, Paul Maris ne suis pas les rencontres sportives.
+#. Les Jeux Olympiques sont organisés près de chez lui.
+#. Ce n’est pas quelque chose qui va se présenter régulièrement.
+#. Il vient de toucher une prime exceptionnelle.
+#. Il décide donc de l’utiliser pour profiter de l’événement en assistant à une compétition
+   en temps que spectateur.
+#. Il veut aussi en faire profiter sa famille.
+#. Quelques mois avant la compétition il se connecte à CyberCompetition.
+#. Il regarde d’abord la liste des disciplines qui vont être disputées.
+#. Il regarde tout d’abord les épreuves de ski alpin.
+#. C’est une épreuve en extérieur.
+#. Si les conditions météo sont mauvaises cela pourrait rentre l’expérience désagréable.
+#. Surtout si il souhaite y emmener Lucas, son fils de 5 ans.
+#. Il visualise donc différentes disciplines.
+#. Sa femme, Virginie regarde régulièrement les matchs de hockey à la télé.
+#. Paul se dit qu’il pourrait profiter de cette opportunité pour organiser une sortie familiale originale.
+#. Il demande trois billets pour pour la compétition de hockey.
+#. Chaque billet coute 30€.
+#. Il demande aussi deux billets pour la compétition de danse sur glace en couple.
+#. Il ira avec sa jeune soeur qui sera en vacances chez lui pendant l’événement.
+#. Chaque billet coute 20€.
+#. Virginie est alertée par la durée d’utilisation de l’ordinateur familial plus qu’inhabituelle pour son époux.
+#. Juste avant qu'il paye, elle observe le panier d’achat affiché à l’écran.
+#. Elle juge opportun d’indiquer à Paul qu’elle a déjà pris un billet de hockey.
+#. Elle a en prévu d’y aller avec une collègue de bureau.
+#. Il retire un billet pour le hockey mais garde les deux autres/
+#. Il ira seul avec son fils.
+#. Son panier affiche donc le montant de 100€.
+#. Paul paye donc les billets.
+#. Pour la finaliser transaction on lui demande son nom, prénom, adresse.
+#. Il doit également rentrer un numéro de téléphone.
+#. CyberCompetition affiche un numéro de transaction unique.
+#. Paul reçoit par mél ses billets.
