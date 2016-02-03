@@ -1,15 +1,17 @@
 CR002
-=====
-:Date: 2015-01-02-14h-15h
-:Type: Reunion
-:Lieu: Grenoble-Competis
-:PartiesPrenantes: ABI, JDR, KWG, MPA, PSO, TNA
-:Organisateur: ABI
-:Rapporteur: KWG
-:Presents: ABI, JDR, KWG, MPA, PSO, TNA
-:Objectifs: clarifier les notions d’équipes et de disciplines
+-----
 
-#. Une compétition rassemble des hommes et des femmes de divers pays.
+:Date: 2016-01-02-14h-15h
+:Type: Reunion
+:Lieu: Grenoble-`Competis`
+:PartiesPrenantes: `ABI`, `JDR`, `KWG`, `MPA`, `PSO`, `TNA`
+:Organisateur: `ABI`
+:Rapporteur: `KWG`
+:Presents: `ABI`, `JDR`, `KWG`, `MPA`, `PSO`, `TNA`
+:Objectifs:
+    * Clarifier les notions d’équipes et de disciplines
+
+#. Une `Competition` rassemble des hommes et des femmes de divers pays.
 #. Ces sportifs se mesurent dans des épreuves de diverses disciplines.
 #. Le ski nordique ou les sports de glace sont des exemples de disciplines.
 #. Dans une discipline, il peut y avoir plusieurs épreuves.
@@ -31,4 +33,6 @@ CR002
 #. Une même équipe peut être engagée dans plusieurs épreuves de la même discipline.
 #. Un même sportif peut être engagé dans plusieurs épreuves de la même discipline.
 #. Un même sportif peut appartenir à plusieurs équipes.
-#. Il ou elle peut être engagé(e) aussi dans une ou plusieurs épreuves individuelles
+#. Il ou elle peut être engagé(e) aussi dans une ou plusieurs épreuves individuelles.
+
+

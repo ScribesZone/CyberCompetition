@@ -1,0 +1,44 @@
+CR001
+-----
+
+:Date: 2016-01-02-8h-10h
+:Type: Reunion
+:Lieu: Grenoble-`Competis`
+:PartiesPrenantes: `ABI`, `JDR`, `KWG`, `MPA`, `PSO`, `TNA`, `ZSH` 
+:Organisateur: `ABI`
+:Rapporteur: `KWG`
+:Presents: `ABI`, `JDR`, `KWG`, `MPA`, `PSO`, `TNA`, `ZSH`
+:Objectifs:
+    * Faire connaissance
+    * Clarifier les grands objectifs du projet
+    * Fixer un premier agenda
+
+#. En ce début de projet, les parties prenantes sont les suivantes :
+#. * Ahmed BLASI (`ABI`) – `IMAG`, Grenoble
+#. * Jean-Claude DUFOUR (`JDR`) - `IMAG`, Grenoble
+#. * Ken WONG (`KWG`) – `IMAG`, Grenoble
+#. * Mireille PALMA (`MPA`) – `Competis`, Lisbonne
+#. * Paolo SANTIAGO SANCHEZ (`PSO`) – `Competis`, Venezuela
+#. * Hong SHI (`HSI`) – `Competis`, Zurich
+#. * Tararya NARAMANATA (`TNA`) – `Competis`, Nantes
+#. * Zork SWISH (`ZSH`) – `Competis`, Autriche
+#. _
+#. La société `Competis` est spécialisée depuis 20 ans dans l’organisation de `Competitions`.
+#. `Competis` est reconnue à l’international et a des antennes dans différents pays.
+#. Elle désire se doter d’un logiciel que l’on appelle `CyberCompetition`.
+#. `Competis` a déjà développé dans le passé des applications séparées.
+#. La plupart de ces applications deviennent obsolètes et doivent être remplacées.
+#. `CyberCompetition` doit rassembler de manière intégrée différentes fonctions.
+#. La réunion a montré que vu l’étendue du problème des priorités devraient être fixées.
+#. On désire étudier les fonctionnalités correspondant à :
+#. * l’enregistrement des `Epreuves`,
+#. * l’enregistrement des `Sportifs`,
+#. * la vente des billets,
+#. * la publication des résultats.
+#. Les prochaines réunions sont planifiées pour les dates suivantes :
+#. * Reunion, 2016-01-02-14h-15h, `ABI`, `JDR`, `KWG`, `MPA`, `PSO`, `TNA` 
+#. * Interview, 2016-01-17-08h-08h30, `ABI`, `KWG`, `MPA`
+#. * Interview, 2016-01-17-14h-15h, `ABI`, `HSI`, `KWG`, `TNA`
+#. * Scenario, 2016-01-18-16h-17h, `ABI`, `HSI`, `KWG`, `MPA`, `PSO`
+#. * Scenario, 2016-01-19-08h-09h, `ABI`, `KWG`, `MPA`
+

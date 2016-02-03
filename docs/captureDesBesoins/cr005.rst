@@ -1,15 +1,17 @@
 CR005
-=====
-:Date: 2015-01-18-16h-17h
-:Type: Scenario
-:Lieu: Paris-Competis
-:PartiesPrenantes: ABI, HSI, KWG, MPA, PSO
-:Organisateur: KWG
-:Presents: ABI, HSI, KWG, MPA
-:Objectifs: Etablir un scénario pré-compétition
+-----
 
-#. Marc est administrateur pour l’application CyberCompétition.
-#. Marc initialise l’application CyberCompétition en vue d'une compétition.
+:Date: 2016-01-18-16h-17h
+:Type: Scenario
+:Lieu: Paris-`Competis`
+:PartiesPrenantes: `ABI`, `HSI`, `KWG`, `MPA`, `PSO`
+:Organisateur: `KWG`
+:Presents: `ABI`, `HSI`, `KWG`, `MPA`
+:Objectifs:
+    * Etablir un scénario pré-compétition
+
+#. Marc est administrateur pour l’application `CyberCompetition`.
+#. Marc initialise l’application `CyberCompetition` en vue d'une compétition.
 #. Marc crée les épreuves disputées, en particulier, l'épreuve de danse en couple sur glace.
 #. Il crée ensuite l'épreuve de patinage libre individuel et l'épreuve de hockey.
 #. Estelle est secrétaire de compétition.

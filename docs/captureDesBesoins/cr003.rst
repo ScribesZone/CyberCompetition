@@ -1,0 +1,33 @@
+CR003
+-----
+
+:Date: 2016-01-17-8h-8h30
+:Type: Interview
+:Lieu: Paris-`Competis`
+:PartiesPrenantes: `ABI`, `KWG`, `MPA`
+:Organisateur: `ABI`
+:Rapporteur: `KWG`
+:Presents: `ABI`, `MPA`, `KWG`
+:Objectifs:
+    * Analyser le mode d’attribution des résultats.
+
+#. `ABI` : *Quels sont les différents types de résultats qui sont fournis après les épreuves ?*
+#. `MPA` : La réponse à cette question n’est pas directe.
+#. `MPA` : D’un point de vue global, à chaque épreuve il y a 3 médailles.
+#. `MPA` : Il s’agit de la médaille d’or, la médaille d’argent et la médaille de bronze.
+#. `MPA` : Quel que soit le mode de calcul des résultats, le plus important est de publier les médailles.
+#. `ABI` : *L’une des priorités sera donc d’afficher pour une épreuve donnée les médailles ?*
+#. `MPA` : Oui, c’est ce que demande le public en priorité.
+#. `MPA` : S’il est possible d’afficher les différents résultats, ce serait évidemment un plus.
+#. `MPA` : Mais 80% des personnes sont intéressées par les médailles plutôt que les résultats détaillés.
+#. `ABI` : *Quelles sont les étapes qui mènent à la publication des médailles ?*
+#. `MPA` : L’épreuve est tout d’abord planifiée.
+#. `MPA` : C’est le responsable du calendrier qui s’occupe de cela.
+#. `MPA` : Il indique les jours de passage des différentes équipes, des différentes compétions, etc.
+#. `MPA` : C'est à partir de cela que les gardiens contrôlent l'accès des zones sportives.
+#. `MPA` : Ensuite les épreuves se déroulent au fur et à mesure du calendrier.
+#. `MPA` : Au fur et à mesure les résultats sont collectés par les chefs d’épreuves.
+#. `MPA` : A la fin, c’est le responsable du jury qui rentre officiellement les médailles.
+#. `MPA` : C’est l’étape qui doit être la plus sécurisée.
+#. `MPA` : On voudrait utiliser un système d’empreinte digitale.
+#. `MPA` : Finalement, les médailles doivent être publiées.
